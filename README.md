@@ -1,16 +1,14 @@
-### Hi there 👋
+# Olá, sou Maicon! :D
 
-<!--
-**maiconhenriquefa/maiconhenriquefa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/maiconhenriquefa)](https://github.com/maiconhenriquefa/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maiconhenriquefa/)](https://www.linkedin.com/in/maiconhenriquefa/)
 
-Here are some ideas to get you started:
+### Sobre mim
+Estudante de Análise e Desenvolvmento de Sistemas. Desenvolvedor full stack. Estudanto Javascript, Nodejs, React.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Experiências**
+- Gerente comercial;
+- Cursos: Rocketseat: Javascript, HTML, CSS; Udemy: Web Moderno Completo com JavaScript 2021 + Projetos; DIgital Inovation One: Bootcamp full stack impulso.
+- Formado em ADM - UFPB;
+- Participação em projetos de pesquisa e extensão;
+- TCC - CHATBOT: em busca de melhoria no atendimento do Serviço de Informação ao Cidadão da UFPB;
