@@ -28,5 +28,5 @@ Segue abaixo minhas estatísticas e linguagens que mais utilizo:
 </a>
 
 <a href="https://github.com/maiconhenriquefa/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maiconhenriquefa&layout=compact&langs_count=6&theme=dracula&card_width=250&custom_title=Linguagens mais utilizadas" />
+  <img align="center" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maiconhenriquefa&layout=compact&langs_count=6&theme=dracula&custom_title=Linguagens mais utilizadas" />
 </a>
