@@ -19,6 +19,10 @@ Atualmente estou buscando oportunidades que me permitam desenvolver e promover a
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
+
+Segue abaixo minhas estatísticas e linguagens que mais utilizo:
+
+
 <a href="https://github.com/maiconhenriquefa/convoychat">
   <img align="center" width="460px" src="https://github-readme-stats.vercel.app/api?username=maiconhenriquefa&hide=contribs,prs&show_icons=true&theme=dracula&locale=pt-br&disable_animations=true&custom_title=Estatísticas do GitHub" />
 </a>
