@@ -12,5 +12,5 @@ Atualmente estou buscando oportunidades que me permitam desenvolver e promover a
 </a>
 
 <a href="https://github.com/maiconhenriquefa/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maiconhenriquefa&layout=compact&langs_count=6&theme=dracula&card_width=350&custom_title=Linguagens mais utilizadas" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maiconhenriquefa&layout=compact&langs_count=6&theme=dracula&card_width=250&custom_title=Linguagens mais utilizadas" />
 </a>
