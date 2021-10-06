@@ -7,5 +7,9 @@ Sou amante do empreendedorismo e de aprender novas tecnologias. Sendo assim, ten
 
 Atualmente estou buscando oportunidades que me permitam desenvolver e promover algumas tecnologias de interesse: ReactJS, Git e GitHub, UI/UX, NodeJS, Scrum, AWS, Clean Code, Figma, Bootstrap.
 
-
-![Maicon GitHub stats](https://github-readme-stats.vercel.app/api?username=maiconhenriquefa&hide=contribs,prs&show_icons=true&theme=dracula)
+<a href="https://github.com/maiconhenriquefa/convoychat">
+  <img align="center" width="460px" src="https://github-readme-stats.vercel.app/api?username=maiconhenriquefa&hide=contribs,prs&show_icons=true&theme=dracula&disable_animations=true&custom_title=Estatísticas do GitHub" />
+</a>
+<a href="https://github.com/maiconhenriquefa/github-readme-stats">
+  <img align="center" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maiconhenriquefa&layout=compact&langs_count=6&theme=dracula&custom_title=Linguagens mais utilizadas" />
+</a>
