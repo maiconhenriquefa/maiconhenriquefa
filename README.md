@@ -24,9 +24,9 @@ Segue abaixo minhas estatísticas e linguagens que mais utilizo:
 
 
 <a href="https://github.com/maiconhenriquefa/convoychat">
-  <img align="center" width="400px" src="https://github-readme-stats.vercel.app/api?username=maiconhenriquefa&hide=contribs,prs&show_icons=true&theme=dracula&locale=pt-br&disable_animations=true&custom_title=Estatísticas do GitHub" />
+  <img align="center" width="330px" src="https://github-readme-stats.vercel.app/api?username=maiconhenriquefa&hide=contribs,prs&show_icons=true&theme=dracula&locale=pt-br&disable_animations=true&custom_title=Estatísticas do GitHub" />
 </a>
 
 <a href="https://github.com/maiconhenriquefa/github-readme-stats">
-  <img align="center" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maiconhenriquefa&layout=compact&langs_count=6&theme=dracula&custom_title=Linguagens mais utilizadas" />
+  <img align="center" width="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maiconhenriquefa&layout=compact&langs_count=6&theme=dracula&custom_title=Linguagens mais utilizadas" />
 </a>
