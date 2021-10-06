@@ -1,6 +1,5 @@
-# Olá, sou Maicon! :D
+## Olá, bem-vindo!
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/maiconhenriquefa)](https://github.com/maiconhenriquefa/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maiconhenriquefa/)](https://www.linkedin.com/in/maiconhenriquefa/)
 
 ### Sobre mim
