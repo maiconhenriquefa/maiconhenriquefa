@@ -3,11 +3,10 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maiconhenriquefa/)](https://www.linkedin.com/in/maiconhenriquefa/)
 
 ### Sobre mim
-Estudante de Análise e Desenvolvmento de Sistemas. Desenvolvedor full stack. Estudando Javascript, Nodejs, React.
+Sou um administrador de empresas com experiência no varejo como gerente comercial, atuando na liderança de equipe, gerenciamento de conflitos e buscando sempre inovação. Preciso esclarecer que sou amante do empreendedorismo e de aprender novas tecnologias.
 
-**Experiências**
-- Cursando Análise e Desenvolvmento de Sistemas;
-- Cursos: Rocketseat: Javascript, HTML, CSS; Udemy: Web Moderno Completo com JavaScript 2021 + Projetos; DIgital Inovation One: Bootcamp Web Developer.
-- Formado em ADM - UFPB;
-- Participação em projetos de pesquisa e extensão;
-- TCC - CHATBOT: em busca de melhoria no atendimento do Serviço de Informação ao Cidadão da UFPB;
+Sendo assim, tenho me dedicado a uma nova formação como Desenvolvedor Front-end. Minha experiência inclui as linguagens CSS3, HTML5, Python e JavaScript.
+
+Prezo pela geração de novas ideias, e o desenvolvimento de soluções viáveis para problemas amplamente relevantes. Gosto de ambientes disruptivos e ter metas esclarecidas. Meus colegas me descreveriam como uma pessoa motivada e empreendedora, focada em atingir resultados, alguém que é positivo e resiliente diante das dificuldades.
+
+Atualmente estou buscando oportunidades que me permitam desenvolver e promover algumas tecnologias de interesse: ReactJS, Git e GitHub, UI/UX, NodeJS, Scrum, AWS, Clean Code, Figma, Bootstrap.
