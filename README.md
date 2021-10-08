@@ -1,4 +1,5 @@
-## Olá, bem-vindo!    [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maiconhenriquefa/)](https://www.linkedin.com/in/maiconhenriquefa/)
+## Olá, bem-vindo!    
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maiconhenriquefa/)](https://www.linkedin.com/in/maiconhenriquefa/)
 
 Sou amante do empreendedorismo e de aprender novas tecnologias. Sendo assim, tenho me dedicado a uma nova formação como Desenvolvedor Front-end. Minha experiência inclui as linguagens:
 
