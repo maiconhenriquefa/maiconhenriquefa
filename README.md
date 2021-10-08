@@ -3,21 +3,21 @@
 <a
   href="https://web.whatsapp.com/send?phone=+5583987322705" 
   alt="WhatsApp"
-  target="blank"
+  target="_blank"
 >
-  <img src="https://img.shields.io/badge/WhatsApp-35D177?style=flat&logo=whatsapp&logoColor=white" />
+  <img src="https://img.shields.io/badge/WhatsApp-f?style=flat&logo=whatsapp&logoColor=white" />
 </a>
 <a
   href="mailto:maiconhenriquefa@gmail.com" 
   alt="Gmail"
-  target="blank"
+  target="_blank"
 >
   <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
 </a>
 <a
   href="https://www.linkedin.com/in/maiconhenriquefa" 
   alt="LinkedIn"
-  target="blank"
+  target="_blank"
 >
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
 </a>
