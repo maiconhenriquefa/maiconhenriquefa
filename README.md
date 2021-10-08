@@ -5,17 +5,17 @@
   alt="WhatsApp"
   target="blank"
 >
-  <img src="https://img.shields.io/badge/WhatsApp-f?style=flat&logo=whatsapp&logoColor=white" />
+  <img src="https://img.shields.io/badge/WhatsApp-35D177?style=flat&logo=whatsapp&logoColor=white" />
 </a>
 <a
-  href="mailto:leosantanabr@gmail.com" 
+  href="mailto:maiconhenriquefa@gmail.com" 
   alt="Gmail"
   target="blank"
 >
   <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
 </a>
 <a
-  href="https://www.linkedin.com/in/banzak" 
+  href="https://www.linkedin.com/in/maiconhenriquefa" 
   alt="LinkedIn"
   target="blank"
 >
