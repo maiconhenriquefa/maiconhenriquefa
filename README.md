@@ -1,4 +1,4 @@
-## Olá, bem-vindo!    
+## Olá, bem-vindo!  
 <p>
 <a
   href="https://web.whatsapp.com/send?phone=+5583987322705" 
@@ -24,7 +24,9 @@
 </p>
 
 
-Sou amante do empreendedorismo e de aprender novas tecnologias. Sendo assim, tenho me dedicado a uma nova formação como Desenvolvedor Front-end. Minha experiência inclui as linguagens:
+Sou amante do empreendedorismo e de aprender novas tecnologias. Sendo <br> assim, tenho me dedicado a uma nova formação como Desenvolvedor Front-end. <br>
+
+Minha experiência inclui as linguagens: <br>
 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
@@ -32,7 +34,7 @@ Sou amante do empreendedorismo e de aprender novas tecnologias. Sendo assim, ten
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
 
 
-Atualmente estou buscando oportunidades que me permitam desenvolver e promover algumas tecnologias de interesse:
+Atualmente estou buscando oportunidades que me permitam desenvolver e <br>promover algumas tecnologias de interesse:
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white)
