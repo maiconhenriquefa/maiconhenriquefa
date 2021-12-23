@@ -24,7 +24,7 @@
 </p>
 
 
-Sou amante do empreendedorismo e de aprender novas tecnologias. Sendo assim, tenho me dedicado a uma nova formação como Desenvolvedor Front-end.
+Sou amante do empreendedorismo e de aprender novas tecnologias. Sendo assim, tenho me dedicado a uma nova formação como <strong>Desenvolvedor Front-end</strong>.
 Minha experiência inclui as linguagens:
 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
