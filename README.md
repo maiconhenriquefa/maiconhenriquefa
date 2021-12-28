@@ -22,7 +22,7 @@
 </ul>
 
 <p align="left">
-  :mailbox: Se deseja bater um papo, não hesite em enviar uma mensagem.
+  :mailbox: Se desejar bater um papo, não hesite em enviar uma mensagem.
 </p>
 
 <ul>
