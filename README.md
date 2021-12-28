@@ -1,5 +1,4 @@
-<h2> <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="25px"> Olá, bem-vindo! </h2>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maiconhenriquefa&style=flat-square&color=FF9800" alt="Profile views" /> </p>
+<h2> <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="25px"> Olá, bem-vindo! <img align="right" src="https://komarev.com/ghpvc/?username=maiconhenriquefa&style=flat-square&color=FF9800" alt="Profile views" /></h2>
 
 <p>Sou o Maicon Henrique - <strong>Desenvolvedor Front-end</strong>.</p> 
 <p>:orange_heart: Amante do empreendedorismo e de aprender novas tecnologias.</p> 
@@ -15,10 +14,10 @@
 </p>
 <ul>
     <a href="https://github.com/maiconhenriquefa/convoychat">
-  <img align="center" width="340px" src="https://github-readme-stats.vercel.app/api?username=maiconhenriquefa&hide=contribs&icon_color=FF9800&hide_border=true&border_radius=0px&show_icons=true&bg_color=90,282C34,282C34,282C34,282C34,282C34,282C34,282C34,282C34,282C34,282C34,282C34,282C34,282C34,282C34,282C34,282C34,282C34,282C34,282C34,282C34,282C34,FF9800&title_color=FF9800&text_color=eee&locale=pt-br&disable_animations=true&custom_title=Estatísticas do GitHub" />
+  <img align="center" width="340px" src="https://github-readme-stats.vercel.app/api?username=maiconhenriquefa&hide=contribs&hide_border=true&icon_color=FF9800&border_radius=0px&show_icons=true&bg_color=282C34&border_color=FF9800&title_color=FF9800&text_color=eee&locale=pt-br&disable_animations=true&custom_title=Estatísticas do GitHub" />
 </a>
 <a href="https://github.com/maiconhenriquefa/github-readme-stats">
-  <img align="center" width="290px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maiconhenriquefa&border_radius=0px&hide_border=true&layout=compact&bg_color=90,282C34,282C34,282C34,282C34,282C34,282C34,282C34,282C34,282C34,282C34,282C34,282C34,282C34,282C34,282C34,282C34,282C34,282C34,282C34,282C34,282C34,FF9800&langs_count=6&title_color=FF9800&text_color=eee&custom_title=Linguagens mais utilizadas" />
+  <img align="center" width="290px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maiconhenriquefa&border_radius=0px&hide_border=true&layout=compact&bg_color=282C34&border_color=FF9800&langs_count=6&title_color=FF9800&text_color=eee&custom_title=Linguagens mais utilizadas" />
 </a>
 </ul>
 
