@@ -1,12 +1,11 @@
-<h2> <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="25px"> Olá, bem-vindo! <img align="right" src="https://komarev.com/ghpvc/?username=maiconhenriquefa&style=flat-square&color=FF9800" alt="Profile views" /></h2>
+<h2><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="20px"> Maicon Henrique - Desenvolvedor Front-end <img align="right" src="https://komarev.com/ghpvc/?username=maiconhenriquefa&style=flat-square&color=FF9800" alt="Profile views" /></h2>
 
-<p>Sou o Maicon Henrique - <strong>Desenvolvedor Front-end</strong>.</p> 
-<p>:orange_heart: Amante do empreendedorismo e de aprender novas tecnologias.</p> 
+<p>:orange_heart: Amante do empreendedorismo e de aprender novas tecnologias</p> 
 
 <ul>
-:fire: Experiência nas linguagens: <b>CSS3, HTML5, Python e JavaScript.</b><br>
-:briefcase: Ferramentas: <b>VSCode, Figma, Trello, Git e GitHub.</b><br>
-:dart: Tecnologias de interesse: <b>React, React Native, Bootstrap, AWS, NodeJS, Clean Code, Clean Architecture.</b><br>
+:fire: Experiência nas linguagens: <b>CSS3, HTML5, Python e JavaScript</b><br>
+:briefcase: Ferramentas: <b>VSCode, Figma, Trello, Git e GitHub</b><br>
+:dart: Tecnologias de interesse: <b>React, React Native, Bootstrap, AWS, NodeJS, Clean Code, Clean Architecture</b><br>
 </ul>
 
 <p align="left">
