@@ -1,4 +1,4 @@
-<h1> <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="25px"> Olá, bem-vindo! </h1>
+<h2> <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="25px"> Olá, bem-vindo! </h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maiconhenriquefa&style=flat-square&color=FF9800" alt="Profile views" /> </p>
 
 <p>Sou o Maicon Henrique - <strong>Desenvolvedor Front-end</strong>.</p> 
