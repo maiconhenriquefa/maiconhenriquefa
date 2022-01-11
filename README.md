@@ -1,4 +1,4 @@
-<h2><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="20px"> Maicon Henrique - Desenvolvedor Front-end <img align="right" src="https://komarev.com/ghpvc/?username=maiconhenriquefa&style=flat-square&color=FF9800" alt="Profile views" /></h2>
+<h2><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="40px" alt="Bem vindo!"> Maicon Henrique - Desenvolvedor Front-end <img align="right" src="https://komarev.com/ghpvc/?username=maiconhenriquefa&style=flat-square&color=FF9800" alt="Profile views" /></h2>
 
 <p>:orange_heart: Amante do empreendedorismo e de aprender novas tecnologias</p> 
 
@@ -13,7 +13,7 @@
 </p>
 <ul>
     <a href="https://github.com/maiconhenriquefa/convoychat">
-  <img align="center" width="340px" src="https://github-readme-stats.vercel.app/api?username=maiconhenriquefa&hide=contribs&hide_border=true&icon_color=FF9800&border_radius=0px&show_icons=true&bg_color=21262D&border_color=FF9800&title_color=FF9800&text_color=eee&locale=pt-br&disable_animations=true&custom_title=Estatísticas do GitHub" />
+  <img align="center" width="398px" src="https://github-readme-stats.vercel.app/api?username=maiconhenriquefa&hide=contribs&hide_border=true&icon_color=FF9800&border_radius=0px&show_icons=true&bg_color=21262D&border_color=FF9800&title_color=FF9800&text_color=eee&locale=pt-br&disable_animations=true&custom_title=Estatísticas do GitHub" />
 </a>
 <a href="https://github.com/maiconhenriquefa/github-readme-stats">
   <img align="center" width="290px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maiconhenriquefa&border_radius=0px&hide_border=true&layout=compact&bg_color=21262D&border_color=FF9800&langs_count=6&title_color=FF9800&text_color=eee&custom_title=Linguagens mais utilizadas" />
