@@ -1,11 +1,11 @@
-<h2><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="40px" alt="Bem vindo!"> Maicon Henrique - Desenvolvedor Front-end <img align="right" src="https://komarev.com/ghpvc/?username=maiconhenriquefa&style=flat-square&color=FF9800" alt="Profile views" /></h2>
+<h2><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="40px" alt="Bem vindo!"> Hey! My name is Maicon Henrique, <img align="right" src="https://komarev.com/ghpvc/?username=maiconhenriquefa&style=flat-square&color=FF9800" alt="Profile views" /></h2>
 
-<p>:orange_heart: Amante do empreendedorismo e de aprender novas tecnologias</p> 
+<p>:orange_heart: I love innovation, entrepreneurship and learning new technologies</p> 
 
 <ul>
-:fire: Experiência nas linguagens: <b>CSS3, HTML5, Python e JavaScript</b><br>
-:briefcase: Ferramentas: <b>VSCode, Figma, Trello, Git e GitHub</b><br>
-:dart: Tecnologias de interesse: <b>React, React Native, Bootstrap, AWS, NodeJS, Clean Code, Clean Architecture</b><br>
+:fire: Experience with <b>CSS3, HTML5, Python, JavaScript, React, React Native, Redux, Bootstrap, Scrum</b><br>
+:briefcase: Tools: <b>VSCode, Figma, Trello, Git, GitHub, GitLab</b><br>
+:dart: Technologies of interest: <b>AWS, NodeJS, Clean Code, Clean Architecture, Firebase, TypeScrip, Vue, PostgreSQL, Jest, GraphQL</b><br>
 </ul>
 
 <p align="left">
@@ -21,7 +21,7 @@
 </ul>
 
 <p align="left">
-  :mailbox: Se desejar bater um papo, não hesite em enviar uma mensagem.
+  :mailbox: If you want to chat, don't hesitate to message me.
 </p>
 
 <ul>
