@@ -1,17 +1,16 @@
-<h2><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="40px" alt="Bem vindo!"> Hey! My name is Maicon Henrique, <img align="right" src="https://komarev.com/ghpvc/?username=maiconhenriquefa&style=flat-square&color=FF9800" alt="Profile views" /></h2>
+<h2 align="center"><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px" alt="Bem vindo!">Hey! My name is Maicon Henrique! </h2>
 
-<p>:orange_heart: I love innovation, entrepreneurship and learning new technologies</p> 
-
-<ul>
-:fire: Experience with <b>CSS3, HTML5, Python, JavaScript, React, React Native, Redux, Bootstrap, Scrum</b><br>
-:briefcase: Tools: <b>VSCode, Figma, Trello, Git, GitHub, GitLab</b><br>
-:dart: Technologies of interest: <b>AWS, NodeJS, Clean Code, Clean Architecture, Firebase, TypeScrip, Vue, PostgreSQL, Jest, GraphQL</b><br>
+<p align="center"> I am a <i>Front-end Mobile developer</i> with React Native and  <i>Web Front-end</i> with React <br>:orange_heart: I love innovation, entrepreneurship and learning new technologies</p> 
+<ul align="center">
+:small_orange_diamond: <b>Experience with:</b>  CSS3, HTML5, Python, JavaScript, React, React Native, Redux, Bootstrap, Scrum<br>
+:small_orange_diamond: <b>Tools:</b>  VSCode, Figma, Trello, Git, GitHub, GitLab<br>
+:small_orange_diamond: <b>Technologies of interest:</b>  AWS, NodeJS, API Restful, Clean Code, Clean Architecture, Firebase,<br> TypeScrip, Vue, PostgreSQL, Jest, GraphQL<br>
 </ul>
 
-<p align="left">
-  ⚙️ GitHub Analytics
+<p align="center">
+  :large_orange_diamond: GitHub Analytics
 </p>
-<ul>
+<ul align="center">
     <a href="https://github.com/maiconhenriquefa/convoychat">
   <img align="center" width="398px" src="https://github-readme-stats.vercel.app/api?username=maiconhenriquefa&hide=contribs&hide_border=true&icon_color=FF9800&border_radius=0px&show_icons=true&bg_color=21262D&border_color=FF9800&title_color=FF9800&text_color=eee&locale=pt-br&disable_animations=true&custom_title=Estatísticas do GitHub" />
 </a>
@@ -20,12 +19,12 @@
 </a>
 </ul>
 
-<p align="left">
-  :mailbox: If you want to chat, don't hesitate to message me.
+<p align="center">
+  :speech_balloon: If you need to chat, don't hesitate to message me. Hug!
 </p>
 
-<ul>
-  <p align="left">
+<ul align="center">
+  <p>
   <a href="mailto:maiconhenriquefa@gmail.com" alt="Gmail">
     <img src="https://img.shields.io/badge/-Gmail-21262D?style=for-the-badge&logo=Gmail&logoColor=FF9800&link=mailto:maiconhenriquefa@gmail.com"/>
   </a>
@@ -43,5 +42,6 @@
   </a>
 </ul>
 <p align="right">
+<img align="left" src="https://komarev.com/ghpvc/?username=maiconhenriquefa&style=flat-square&color=FF9800" alt="Profile Views" />
 <a href="https://maiconhenriquefa.github.io/portfolio/">Portfólio</a>
 </p>
