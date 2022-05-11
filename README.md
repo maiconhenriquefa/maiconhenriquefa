@@ -2,7 +2,7 @@
 <h2 align="left"><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="25px" alt="Bem vindo!"> Hey! My name is Maicon Henrique!<img align="right" src="https://komarev.com/ghpvc/?username=maiconhenriquefa&style=flat-square&color=FF9800" alt="Profile Views" /></h2>
 
 <ul align="left">
-<p align="left"> I am a <i>Front-end Mobile developer</i> with React Native and  <i>Web Front-end</i> with React <br>:orange_heart: I love innovation, entrepreneurship and learning new technologies</p> 
+<p> I am a <i>Front-end Mobile developer</i> with React Native and  <i>Web Front-end</i> with React <br>:orange_heart: I love innovation, entrepreneurship and learning new technologies</p> 
 </ul>
 
 <ul align="left">
@@ -13,7 +13,7 @@
 
 
 <ul align="left">
-  <p align="left">
+  <p>
   :large_orange_diamond: GitHub Analytics
 </p>
     <a href="https://github.com/maiconhenriquefa/convoychat">
@@ -24,13 +24,10 @@
 </a>
 </ul>
 
-
-
 <ul align="left">
-  <p align="left">
+  <p>
   :speech_balloon: If you need to chat, don't hesitate to message me. Hug!
 </p>
-  <p>
   <a href="mailto:maiconhenriquefa@gmail.com" alt="Gmail">
     <img src="https://img.shields.io/badge/-Gmail-21262D?style=for-the-badge&logo=Gmail&logoColor=FF9800&link=mailto:maiconhenriquefa@gmail.com"/>
   </a>
