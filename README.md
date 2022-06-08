@@ -1,5 +1,5 @@
 
-<h2 align="left"><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="25px" alt="Bem vindo!"> Hey! My name is Maicon Henrique!<img align="right" src="https://komarev.com/ghpvc/?username=maiconhenriquefa&style=flat-square&color=FF9800" alt="Profile Views" /></h2>
+<h2 align="left"><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="25" alt="Bem vindo!"> Hey! My name is Maicon Henrique!<img align="right" src="https://komarev.com/ghpvc/?username=maiconhenriquefa&style=flat-square&color=FF9800" alt="Profile Views" /></h2>
 
 <ul align="left">
 <p> I am a <i>Front-end Mobile developer</i> with React Native and  <i>Web Front-end</i> with React <br>:orange_heart: I love innovation, entrepreneurship and learning new technologies</p> 
