@@ -31,9 +31,5 @@
   <a href="https://discord.com/channels/Maicon#7013" alt="Discord">
     <img src="https://img.shields.io/badge/-Discord-21262D?style=for-the-badge&logo=Discord&logoColor=FF9800&link=https://discord.com/channels/Maicon#7013"/>
   </a>
-    
-  <a href="https://web.whatsapp.com/send?phone=+5583987322705" alt="Whatsapp">
-    <img src="https://img.shields.io/badge/-Whatsapp-21262D?style=for-the-badge&logo=Whatsapp&logoColor=FF9800&link=https://web.whatsapp.com/send?phone=+5583987322705"/>
-  </a>
 <p align="right" ><a href="https://maiconhenriquefa.github.io/portfolio/">Portfólio</a></p>
 
