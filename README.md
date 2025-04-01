@@ -12,10 +12,10 @@
 
 <p>:small_orange_diamond: GitHub Analytics</p>
 
-![Maicon Henrique's github stats](https://github-readme-stats.vercel.app/api?username=maiconhenriquefa&hide=contribs&hide_border=true&icon_color=FF9800&border_radius=0px&show_icons=true&bg_color=21262D&border_color=FF9800&title_color=FF9800&text_color=eee&disable_animations=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maiconhenriquefa&border_radius=0px&hide_border=true&layout=compact&bg_color=21262D&border_color=FF9800&langs_count=6&title_color=FF9800&text_color=eee&card_width=466)
-
+<div>
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=maiconhenriquefa&hide=contribs&hide_border=true&icon_color=FF9800&border_radius=0px&show_icons=true&bg_color=21262D&border_color=FF9800&title_color=FF9800&text_color=eee&disable_animations=true" /> 
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maiconhenriquefa&border_radius=0px&hide_border=true&layout=compact&bg_color=21262D&border_color=FF9800&langs_count=6&title_color=FF9800&text_color=eee&card_width=466" />  
+</div>
 
 <p>
   :speech_balloon: If you need to chat, don't hesitate to message me. Hug!
