@@ -1,36 +1,20 @@
+## Hi, I'm Maicon Henrique
 
-<h2 align="left"><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="25" alt="Bem vindo!"> Hey! My name is Maicon Henrique!<img align="right" src="https://komarev.com/ghpvc/?username=maiconhenriquefa&style=flat-square&color=FF9800" alt="Profile Views" /></h2>
+Frontend engineer from Brazil. I've spent the last 5+ years building mobile apps with React Native and web apps with React and TypeScript, and about 2 years writing Node.js and TypeScript services on the backend.
 
+At WeFit I work on apps for large clients such as Azul Airlines, and I've led a squad of six developers there.
 
-<p> I am a <i>Front-end Mobile developer</i> with React Native and  <i>Web Front-end</i> with React <br>
+### Open source
 
-:orange_heart:  I love innovation, entrepreneurship and learning new technologies</p> 
-<!--
-:small_orange_diamond: <b>Experience with:</b>  CSS3, HTML5, Python, JavaScript, React, React Native, Redux, Bootstrap, Scrum<br>
-:small_orange_diamond: <b>Tools:</b>  VSCode, Figma, Trello, Git, GitHub, GitLab<br>
-:small_orange_diamond: <b>Technologies of interest:</b>  AWS, NodeJS, API Restful, Clean Code, Clean Architecture, Firebase,<br> TypeScrip, Vue, PostgreSQL, Jest, GraphQL<br>
--->
-<!-- <p>:small_orange_diamond: GitHub Analytics</p>
+- [Storybook #37677](https://github.com/storybookjs/storybook/pull/37677) Keeps preview hooks like `useArgs` working in React Server Component stories when a child suspends
+- [react-pdf #3631](https://github.com/diegomura/react-pdf/pull/3631) Explains why Tailwind box-shadow classes are skipped instead of reporting them as invalid
 
-<div>
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=maiconhenriquefa&hide=contribs&hide_border=true&icon_color=FF9800&border_radius=0px&show_icons=true&bg_color=21262D&border_color=FF9800&title_color=FF9800&text_color=eee&disable_animations=true" /> 
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maiconhenriquefa&border_radius=0px&hide_border=true&layout=compact&bg_color=21262D&border_color=FF9800&langs_count=6&title_color=FF9800&text_color=eee" />  
-</div> -->
-<!--
-<p>
-  :speech_balloon: If you need to chat, don't hesitate to message me. Hug!
-</p>
--->
-  <a href="mailto:maiconhenriquefa@gmail.com" alt="Gmail">
-    <img src="https://img.shields.io/badge/-Gmail-21262D?style=for-the-badge&logo=Gmail&logoColor=FF9800&link=mailto:maiconhenriquefa@gmail.com"/>
-  </a>
-  
-  <a href="https://www.linkedin.com/in/maiconhenriquefa" alt="Linkedin">
-    <img src="https://img.shields.io/badge/-Linkedin-21262D?style=for-the-badge&logo=Linkedin&logoColor=FF9800&link=https://www.linkedin.com/in/maiconhenriquefa"/>
-  </a>
-  
-  <a href="https://discord.com/channels/Maicon#7013" alt="Discord">
-    <img src="https://img.shields.io/badge/-Discord-21262D?style=for-the-badge&logo=Discord&logoColor=FF9800&link=https://discord.com/channels/Maicon#7013"/>
-  </a>
-<p align="right" ><a href="https://maiconhenriquefa.github.io/portfolio/">Portfólio</a></p>
+### What I work with
 
+React Native, React, Next.js, TypeScript, Node.js, Tailwind CSS, Storybook
+
+Lately I've been exploring 3D data visualization with React Three Fiber and building with AI agents.
+
+### Contact
+
+[LinkedIn](https://www.linkedin.com/in/maiconhenriquefa) | [Email](mailto:maiconhenriquefa@gmail.com) | [Portfolio](https://maiconhenriquefa.github.io/portfolio/)
