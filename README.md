@@ -6,8 +6,8 @@ At WeFit I work on apps for large clients such as Azul Airlines, and I've led a 
 
 ### Open source
 
-- [Storybook #37677](https://github.com/storybookjs/storybook/pull/37677) Keeps preview hooks like `useArgs` working in React Server Component stories when a child suspends
-- [react-pdf #3631](https://github.com/diegomura/react-pdf/pull/3631) Explains why Tailwind box-shadow classes are skipped instead of reporting them as invalid
+- [react-pdf #3631](https://github.com/diegomura/react-pdf/pull/3631) (merged) Explains why Tailwind box-shadow classes are skipped instead of reporting them as invalid
+- [Storybook #37677](https://github.com/storybookjs/storybook/pull/37677) (in review) Keeps preview hooks like `useArgs` working in React Server Component stories when a child suspends
 
 ### What I work with
 
